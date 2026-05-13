@@ -4,6 +4,8 @@
 <img style="border-radius: 20px" src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
 </a>
 
+webui thingy still needs to be done atm
+
 ---
 
 A command-line tool for downloading document content where you are authorized to do so.
